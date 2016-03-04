@@ -1,0 +1,28 @@
+﻿<Window x:Class="HistoryNoteBook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="历史笔记本" Height="350" Width="525" WindowState="Normal" WindowStyle="SingleBorderWindow" ResizeMode="CanMinimize">
+    <Grid Height="321" Width="514">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="126*" />
+            <ColumnDefinition Width="377*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel  HorizontalAlignment="Left" Name="stackPanel1" VerticalAlignment="Top" Height="320" Width="130" Grid.ColumnSpan="2">
+            <ComboBox Height="23" Name="comboBox_Filter" Width="120" SelectedIndex="1">
+                <ComboBoxItem Content="年份（某一年）" />
+                <ComboBoxItem Content="年份（起止）" />
+                <ComboBoxItem Content="文字" />
+            </ComboBox>
+            <TextBox Height="23" Name="textBox_Search" Width="120" HorizontalAlignment="Center" VerticalAlignment="Center" FlowDirection="LeftToRight" HorizontalContentAlignment="Center" KeyDown="textBox_Year_KeyDown" />
+            <Button Content="搜索" Height="23" Name="button_Search" Width="75" Margin="5" Click="button_Search_Click" />
+            <Button Content="新建事件" Height="23" Width="75" Margin="5" Name="Button_NewEvent" Click="Button_NewEvent_Click" />
+            <Button Content="所有事件" Height="23" Name="button_ShowAllEvents" Width="75" Margin="5" Click="button_ShowAllEvents_Click" />
+            <Button Content="查看事件图" Height="23" Name="button_BuildGraph" Width="75" Margin="5" Click="button_BuildGraph_Click" />
+            <Button Content="查看标签图" Height="23" Name="button_BuildTagTree" Width="75" Margin="5" Click="button_BuildTagTree_Click" />
+            <Button Content="建立关系" Height="23" Name="button_BuildRelation" Width="75" Margin="5" Click="button_BuildRelation_Click" />
+            <Button Content="备份" Height="23" Name="button_Backup" Width="75" Margin="5" Click="button_Backup_Click" />
+            <Button Content="去除冗余关系" Height="23" Name="button_RemoveEdge" Width="75" Margin="5" Click="button_RemoveEdge_Click" />
+        </StackPanel>
+        <ListBox Grid.Column="1" Height="290" HorizontalAlignment="Left" Margin="15,4,0,0" Name="listBox_Events" VerticalAlignment="Top" Width="347" MouseDoubleClick="listBox_Events_MouseDoubleClick" MouseRightButtonUp="listBox_Events_MouseRightButtonUp" ScrollViewer.VerticalScrollBarVisibility="Disabled" ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionMode="Extended" />
+    </Grid>
+</Window>

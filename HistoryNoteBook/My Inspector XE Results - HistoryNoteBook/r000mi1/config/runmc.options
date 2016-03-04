@@ -1,0 +1,12 @@
+-r
+E:\HistoryNoteBook\HistoryNoteBook\My Inspector XE Results - HistoryNoteBook\r000mi1
+--stack-depth=8
+--no-access-checks
+--no-analyze-stack
+--leak-check-only
+--check-resource-leaks
+--guard-zone-size=0
+--search-dir
+sym=E:/HistoryNoteBook
+--
+E:\HistoryNoteBook\HistoryNoteBook\bin\Debug\HistoryNoteBook.exe

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feedback>
+ <message severity="info">Memory error analysis: started</message>
+ <nop/>
+ <message severity="info">Result file: [E:\HistoryNoteBook\HistoryNoteBook\My Inspector XE Results - HistoryNoteBook\r000mi1\r000mi1.inspxe] </message>
+ <nop/>
+ <message severity="info">Analysis started for E:\HistoryNoteBook\HistoryNoteBook\bin\Debug\HistoryNoteBook.exe (pid = 16776) </message>
+ <nop/>
+ <message severity="info">Loaded module: E:\HistoryNoteBook\HistoryNoteBook\bin\Debug\HistoryNoteBook.exe, address range [0x00080000-0x00091fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: D:\Intel\Inspector XE 2011\bin32\inspxe_dbghelp.dll, address range [0x04100000-0x04220fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: D:\Intel\Inspector XE 2011\bin32\inspxe_msdia100.dll, address range [0x0f420000-0x0f4e5fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\SYSTEM32\MSCOREE.DLL, address range [0x6e430000-0x6e479fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\apphelp.dll, address range [0x729f0000-0x72a3bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\CRYPTBASE.dll, address range [0x74f00000-0x74f0bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\SspiCli.dll, address range [0x74f10000-0x74f6ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\RPCRT4.dll, address range [0x75030000-0x7511ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\PSAPI.DLL, address range [0x75120000-0x75124fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\msvcrt.dll, address range [0x75130000-0x751dbfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\USER32.dll, address range [0x751e0000-0x752dffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\MSCTF.dll, address range [0x76190000-0x7625bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\KERNELBASE.dll, address range [0x76610000-0x76656fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\GDI32.dll, address range [0x767c0000-0x7684ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\ole32.dll, address range [0x768e0000-0x76a3bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\SysWOW64\sechost.dll, address range [0x76b30000-0x76b48fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\KERNEL32.dll, address range [0x76b90000-0x76c9ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\USP10.dll, address range [0x76d00000-0x76d9cfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\ADVAPI32.dll, address range [0x76da0000-0x76e3ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\OLEAUT32.dll, address range [0x76fb0000-0x7703efff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\IMM32.DLL, address range [0x77040000-0x7709ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\LPK.dll, address range [0x773c0000-0x773c9fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\SysWOW64\ntdll.dll, address range [0x773f0000-0x7756ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll, address range [0x6e3b0000-0x6e429fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\SHLWAPI.dll, address range [0x76ca0000-0x76cf6fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll, address range [0x5dee0000-0x5e572fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\MSVCR110_CLR0400.dll, address range [0x5de00000-0x5ded2fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\mscorlib\d12f4fda3d1bfabf888342e96983e9a7\mscorlib.ni.dll, address range [0x52e00000-0x53dc9fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\uxtheme.dll, address range [0x72750000-0x727cffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System\a369005c18456d7fd36347e36d63fe05\System.ni.dll, address range [0x50cb0000-0x5162bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\WindowsBase\ac2e26bafa70e93b307087d7fe6b9dd2\WindowsBase.ni.dll, address range [0x5a680000-0x5aa3cfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\CRYPTSP.dll, address range [0x701d0000-0x701e5fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\rsaenh.dll, address range [0x70190000-0x701cafff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\PresentationCore\43a5fc0dffa4a254749608452df27b6a\PresentationCore.ni.dll, address range [0x0f790000-0x101fefff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\8711b01d60a94d6ef6a02d7fd0578493\PresentationFramework.ni.dll, address range [0x55d50000-0x56f02fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Xaml\9d3572e8c3c314a0f12383d41e8bee78\System.Xaml.ni.dll, address range [0x586a0000-0x5886dfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\dwrite.dll, address range [0x58590000-0x5869bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll, address range [0x089c0000-0x08b5cfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll, address range [0x5aeb0000-0x5af6ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll, address range [0x58520000-0x5858dfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\Microsoft.NET\Framework\v4.0.30319\nlssorting.dll, address range [0x5dde0000-0x5ddf1fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\dwmapi.dll, address range [0x6e390000-0x6e3a2fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Users\dell\AppData\Roaming\TaobaoProtect\TaobaoProtectSE.dll, address range [0x74560000-0x745f2fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\CRYPT32.dll, address range [0x76670000-0x7678ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\MSASN1.dll, address range [0x76f70000-0x76f7bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\VERSION.dll, address range [0x74d70000-0x74d78fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\sfc.dll, address range [0x74de0000-0x74de2fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\sfc_os.DLL, address range [0x74dd0000-0x74ddcfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\d3d9.dll, address range [0x5f2b0000-0x5f472fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\d3d8thk.dll, address range [0x64ea0000-0x64ea5fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\aticfx32.dll, address range [0x5f200000-0x5f2a8fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\atiu9pag.dll, address range [0x63730000-0x6373afff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\igdumd32.dll, address range [0x0b890000-0x0bea0fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\atiumdag.dll, address range [0x5af70000-0x5b383fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\atiumdva.dll, address range [0x52830000-0x52bbefff] </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\system32\atiumdva.dll </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\system32\igdumd32.dll </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\system32\atiumdag.dll </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\igdumd32.dll, address range [0x0b890000-0x0bea0fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\atiumdag.dll, address range [0x5af70000-0x5b383fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\Presentatio1c9175f8#\a6a6fa5e1e0fa50040bcb18751901007\PresentationFramework.Aero.ni.dll, address range [0x52d40000-0x52db2fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\RpcRtRemote.dll, address range [0x74900000-0x7490dfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\UIAutomationTypes\aa082a27df085dae57ffa438182c792c\UIAutomationTypes.ni.dll, address range [0x57b80000-0x57baffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\UIAutomationCore.dll, address range [0x137e0000-0x1386bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\OLEACC.dll, address range [0x72910000-0x7294bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\853f7abd2d9a620ba57c7b4005fe1976\System.Configuration.ni.dll, address range [0x58430000-0x5851dfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Xml\95a58c416cfe8803af6b325d952a374a\System.Xml.ni.dll, address range [0x51bd0000-0x52308fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Core\6497e394eb0346d9f374976af5033e37\System.Core.ni.dll, address range [0x58870000-0x58f1efff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Data\5e963184507d322fed0d414910bc8537\System.Data.ni.dll, address range [0x0cc10000-0x0d2fbfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll, address range [0x0d360000-0x0d66afff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\WS2_32.dll, address range [0x74ff0000-0x75024fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\NSI.dll, address range [0x76660000-0x76665fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Transactions\13b1748896e1f9ef4bc9889e945d239e\System.Transactions.ni.dll, address range [0x5f700000-0x5f79efff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll, address range [0x5f9e0000-0x5fa24fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Ente96d83b35#\12ce93737f159b31ce4e4d7bba0a8666\System.EnterpriseServices.ni.dll, address range [0x66b50000-0x66c0ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Ente96d83b35#\12ce93737f159b31ce4e4d7bba0a8666\System.EnterpriseServices.Wrapper.dll, address range [0x0f0a0000-0x0f0defff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll, address range [0x0da60000-0x0da7ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\urlmon.dll, address range [0x76050000-0x7618ffff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\XmlLite.dll, address range [0x76b50000-0x76b7efff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\WININET.dll, address range [0x75f50000-0x76044fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\iertutil.dll, address range [0x76260000-0x76460fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\ntmarta.dll, address range [0x6f950000-0x6f970fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\WLDAP32.dll, address range [0x770a0000-0x770e4fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\SHELL32.dll, address range [0x75300000-0x75f4afff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\profapi.dll, address range [0x74d30000-0x74d3afff] </message>
+ <nop/>
+ <message severity="warning">Found no symbols for this module: C:\windows\system32\profapi.dll. Analysis may be incomplete. </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\mswsock.dll, address range [0x72b00000-0x72b3bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\System32\wshtcpip.dll, address range [0x70e50000-0x70e54fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\System32\wship6.dll, address range [0x72950000-0x72955fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\DNSAPI.dll, address range [0x73430000-0x73473fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\Bonjour\mdnsNSP.dll, address range [0x732d0000-0x732f0fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\Iphlpapi.DLL, address range [0x74b30000-0x74b4bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\WINNSI.DLL, address range [0x74b20000-0x74b26fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\rasadhlp.dll, address range [0x72970000-0x72975fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\System32\fwpuclnt.dll, address range [0x6eec0000-0x6eef7fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Management\d7e7114f6d4f66c9534c293cf2729b26\System.Management.ni.dll, address range [0x62d30000-0x62e4cfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\CLBCatQ.DLL, address range [0x76850000-0x768d2fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\wbem\wmiutils.dll, address range [0x64ec0000-0x64ed6fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\wbemcomn.dll, address range [0x6ef00000-0x6ef5bfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\wbem\wbemprox.dll, address range [0x726f0000-0x726f9fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\Microsoft.NET\Framework\v4.0.30319\wminet_utils.dll, address range [0x0f630000-0x0f639fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\wbem\wbemsvc.dll, address range [0x6f910000-0x6f91efff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\wbem\fastprox.dll, address range [0x6edf0000-0x6ee85fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\NTDSAPI.dll, address range [0x702f0000-0x70307fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\POWRPROF.DLL, address range [0x62b10000-0x62b34fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\SETUPAPI.dll, address range [0x76470000-0x7660cfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\CFGMGR32.dll, address range [0x76790000-0x767b6fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\syswow64\DEVOBJ.dll, address range [0x752e0000-0x752f1fff] </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\system32\POWRPROF.DLL </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\syswow64\SETUPAPI.dll </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\syswow64\DEVOBJ.dll </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\syswow64\CFGMGR32.dll </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\WtsApi32.dll, address range [0x74d60000-0x74d6cfff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\WINSTA.dll, address range [0x74940000-0x74968fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\atiumdva.dll, address range [0x52830000-0x52bbefff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\Presentatio49d6fefe#\469e1cf4e09484b942c93ea026b40652\PresentationFramework-SystemXml.ni.dll, address range [0x578f0000-0x578f7fff] </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\system32\atiumdva.dll </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\atiumdva.dll, address range [0x52830000-0x52bbefff] </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\system32\atiumdva.dll </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\ole32.dll, address range [0x144c0000-0x1461bfff] </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\windows\system32\ole32.dll </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\msctfui.dll, address range [0x145a0000-0x145b6fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\system32\WINMM.dll, address range [0x74970000-0x749a1fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Numerics\03b3342f21a5dc6d97cd99632c324765\System.Numerics.ni.dll, address range [0x611c0000-0x611e5fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\003c06af327914e4ad317c4fbf1c37e2\System.Drawing.ni.dll, address range [0x5dc40000-0x5ddd0fff] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\11016b3915ab944c10a97c689e90b996\System.Windows.Forms.ni.dll, address range [0x7af70000-0x7bb8dfff] </message>
+ <nop/>
+ <message severity="info">Application exit code: [1] </message>
+ <nop/>
+ <message severity="info">Result file: [E:\HistoryNoteBook\HistoryNoteBook\My Inspector XE Results - HistoryNoteBook\r000mi1\r000mi1.inspxe] </message>
+ <nop/>
+ <message severity="info">Memory error analysis: canceled by user</message>
+ <nop/>
+</feedback>

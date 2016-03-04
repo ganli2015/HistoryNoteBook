@@ -1,0 +1,18 @@
+﻿<Window x:Class="HistoryNoteBook.BuildRelationForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="建立关系" Height="422" Width="408" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="37*" />
+            <RowDefinition Height="308*" />
+            <RowDefinition Height="38*" />
+        </Grid.RowDefinitions>
+        <Label Content="内容 " Height="28" HorizontalAlignment="Left" Margin="59,9,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="120,11,0,0" Name="textBox_SearchContent" VerticalAlignment="Top" Width="120" />
+        <ListBox Grid.Row="1" Height="158" HorizontalAlignment="Left" Name="listBox1" VerticalAlignment="Top" Width="362" Margin="12,17,0,0" />
+        <Button Content="确定" Grid.Row="2" Height="23" HorizontalAlignment="Left" Margin="299,15,0,0" Name="button_OK" VerticalAlignment="Top" Width="75" Click="button_OK_Click" />
+        <Button Content="搜索" Height="23" HorizontalAlignment="Left" Margin="276,14,0,0" Name="button_Search" VerticalAlignment="Top" Width="75" Click="button_Search_Click" />
+        <TextBox Grid.Row="1" Height="93" HorizontalAlignment="Left" Margin="26,189,0,0" Name="textBox_Content" VerticalAlignment="Top" Width="325" />
+    </Grid>
+</Window>

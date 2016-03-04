@@ -1,0 +1,14 @@
+﻿<Window x:Class="HistoryNoteBook.TagEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TagEditor" Height="259" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="155*" />
+            <RowDefinition Height="65*" />
+        </Grid.RowDefinitions>
+        <Button Content="确定" Height="23" HorizontalAlignment="Left" Margin="91,13,0,0" Name="button_OK" VerticalAlignment="Top" Width="75" Grid.Row="2" Click="button_OK_Click" />
+        <Button Content="取消" Height="23" HorizontalAlignment="Right" Margin="0,13,8,0" Name="button_Cancel" VerticalAlignment="Top" Width="75" Grid.Row="2" Click="button_Cancel_Click" />
+        <TextBox Height="47" HorizontalAlignment="Left" Margin="32,53,0,0" Name="textBox_Content" TextWrapping="Wrap" VerticalAlignment="Top" Width="221" />
+    </Grid>
+</Window>
